@@ -20,7 +20,7 @@
   <div>
 
   <a href="https://www.linkedin.com/in/daniel-s-968a999a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "" >Curriculum </a>
+  <a href = "https://drive.google.com/file/d/1ZoyBRurDYCmISk773uGu3MuQRd9qanyC/view?usp=sharing" >Curriculum </a>
 
   
   </div>
