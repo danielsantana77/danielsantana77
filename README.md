@@ -3,6 +3,7 @@
 - 📚 Estudando JavaScript/HTML/CSS
 - 👨‍💻 Fundamentos Front-End
 - ⚛️ ReactJS
+- Conhecimentos em JAVA
 
  <div>
   <a href="https://github.com/danielsantana77">
