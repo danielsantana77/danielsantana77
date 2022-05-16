@@ -1,10 +1,10 @@
 ### Olá, bem vindo ao meu perfil DEV
 
-- 📚 Estudando JavaScript/HTML/CSS/ para o Front-End
+- 📚 Estudando JavaScript/HTML/CSS/React JS para o Front-End
 - 📚 Estudando NodeJS para o Back-End
 - 👨‍💻 Fundamentos Front-End
 - ⚛️ ReactJS
-- Conhecimentos em JAVA
+- 🤖 Conhecimentos em JAVA e C
 
  <div>
   <a href="https://github.com/danielsantana77">
