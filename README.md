@@ -1,6 +1,7 @@
 ### Olá, bem vindo ao meu perfil DEV
 
-- 📚 Estudando JavaScript/HTML/CSS
+- 📚 Estudando JavaScript/HTML/CSS/ para o Front-End
+- 📚 Estudando NodeJS para o Back-End
 - 👨‍💻 Fundamentos Front-End
 - ⚛️ ReactJS
 - Conhecimentos em JAVA
