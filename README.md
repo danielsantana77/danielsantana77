@@ -1,10 +1,10 @@
 ### Olá, bem vindo ao meu perfil DEV
 
-- 📚 Estudando JavaScript/Typescript/HTML/CSS/React JS para o Front-End
-- 📚 Estudando NodeJS para o Back-End
+- 📚 Estudando JavaScript/HTML/CSS/React JS para o Front-End
+- 📚 Estudando NodeJS/Typescript para o Back-End
 - 👨‍💻 Fundamentos Front-End
 - ⚛️ ReactJS
-- 🤖 Conhecimentos em JAVA e C
+- 🤖 Conhecimentos em JAVA e C 
 
  <div>
   <a href="https://github.com/danielsantana77">
@@ -16,6 +16,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align='center' alt="python" height="30" width="40" src= "https://img.icons8.com/color/344/python--v1.png">
 </div>
   
  ##
