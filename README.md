@@ -2,7 +2,7 @@
 
 - 📚 Estudando JavaScript/HTML/CSS/React JS para o Front-End
 - 📚 Estudando NodeJS/Typescript para o Back-End
-- 👨‍💻 Fundamentos Front-End
+- 👨‍💻 Experiencia e trabalhando atualmente com PYTHON/ RPA
 - ⚛️ ReactJS
 - 🤖 Conhecimentos em C, JAVA e PYTHON
 
