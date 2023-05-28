@@ -1,8 +1,7 @@
 ### Olá, bem vindo ao meu perfil DEV
 
-- 📚 Estudando JavaScript/HTML/CSS/React JS para o Front-End
 - 📚 Estudando NodeJS/Typescript para o Back-End
-- 👨‍💻 Experiencia e trabalhando atualmente com PYTHON/ RPA
+- 👨‍💻 Desenvolvendo e trabalhando atualmente com aplicações de automação PYTHON/ RPA
 - ⚛️ ReactJS
 - 🤖 Conhecimentos em C, JAVA e PYTHON
 
